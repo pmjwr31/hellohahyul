@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
       title: '김경석 와이프 찾기',
       // 하이
       home: LogIn(),
+      // fuck
     );
   }
 }
